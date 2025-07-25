@@ -1,11 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: 
-Programming Languages: Python, C, C++
-Machine Learning Frameworks & Libraries: TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib,
-Seaborn
-Tools: Tableau, Power BI, Excel
-Database Management: MySQL, Redis, MongoDB
+Machine Learning
 
 
 ## Education								       		
