@@ -1,6 +1,4 @@
-# Data Scientist
-
-#### Technical Skills: 
+#### Technical Skills 
 Machine Learning
 
 
